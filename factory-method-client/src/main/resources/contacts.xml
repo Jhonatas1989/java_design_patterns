@@ -1,0 +1,14 @@
+<contacts>
+	<contact>
+		<name>John Smith</name>
+		<email>John@email.com</email>
+	</contact>
+	<contact>
+		<name>Mary Jean</name>
+		<email>mary@email.com</email>
+	</contact>
+	<contact>
+		<name>George Bill</name>
+		<email>george@email.com</email>
+	</contact>
+</contacts>
